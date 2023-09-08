@@ -1,3 +1,7 @@
 def upper_text(s):
-    '''ЗАГЛАВНЫЕ БУКВЫ'''
+    '''Все ЗАГЛАВНЫЕ'''
     return s.upper()
+
+def title_text(s):
+    '''Заглавные первые буквы'''
+    return s.title()
